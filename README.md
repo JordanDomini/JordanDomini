@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning algorithms and weak AI design while relearning Python and C++ after a long period away from coding.
 - 💞️ I’m looking to collaborate on IoT projects and game mods if I can be helpful.
 - 📫 How to reach me: email is JordanDominic.Miller@gmail.com for business inquiries
+- Unfortunately most of my code is hidden as it was for classes or required to be somewhat secretive for one reason or another.
 
 <!---
 JordanDomini/JordanDomini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
